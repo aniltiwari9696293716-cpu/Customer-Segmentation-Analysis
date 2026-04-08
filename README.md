@@ -1,14 +1,33 @@
-# Customer-Segmentation-Analysis
-Customer segmentation project using K-Means clustering and business insight analysis
-1. Key Insights
-Top Customer Age: Customers aged 20-30 are the highest spenders.
+Gemini said
+Agar aapne ye project SQL ka use karke complete kiya hai, toh aapka README aur bhi impressive lagega! SQL projects dikhate hain ki aap databases aur complex queries ke saath kaam kar sakte hain.
 
-Preferred Payment: Cash and UPI are the most used payment methods.
+Purana text delete karke aap ye English content wahan paste kar dijiye:
 
-Discount Strategy: Recommended discounts for Electronics and Accessories categories as their sales are below average.
-2. Tech Stack
-Language: Python
+Superstore Sales Data Analysis (SQL)
+Project Overview
+This project involves a comprehensive analysis of the Superstore Sales Dataset using SQL. The goal was to extract meaningful business insights regarding sales performance, profit margins, and customer behavior across different regions and categories.
 
-Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn
+Key Business Questions Addressed
+Sales Trends: Identifying the peak months and years for sales.
 
-"https://github.com/user-attachments/assets/4b15ca6c-61b8-45b2-bf13-ed94efd07fa5" />
+Profitability Analysis: Determining which product categories and sub-categories yield the highest profit.
+
+Customer Insights: Analyzing top-spending customers and their purchasing patterns.
+
+Regional Performance: Comparing sales and profit across different geographic locations.
+
+Tech Stack
+Database: SQL (PostgreSQL / MySQL / SQL Server)
+
+Tools: SQL Queries for Data Extraction and Transformation
+
+Documentation: Superstore_Sales_Project.pdf
+
+Key SQL Skills Applied
+Aggregations: Using SUM(), AVG(), and COUNT() to calculate totals.
+
+Joins: Combining multiple tables for a unified view.
+
+Grouping & Ordering: Using GROUP BY and ORDER BY for structured insights.
+
+Window Functions: (If used, e.g., RANK(), ROW_NUMBER()).
