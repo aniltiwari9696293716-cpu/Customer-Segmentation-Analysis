@@ -1,8 +1,3 @@
-Gemini said
-Agar aapne ye project SQL ka use karke complete kiya hai, toh aapka README aur bhi impressive lagega! SQL projects dikhate hain ki aap databases aur complex queries ke saath kaam kar sakte hain.
-
-Purana text delete karke aap ye English content wahan paste kar dijiye:
-
 Superstore Sales Data Analysis (SQL)
 Project Overview
 This project involves a comprehensive analysis of the Superstore Sales Dataset using SQL. The goal was to extract meaningful business insights regarding sales performance, profit margins, and customer behavior across different regions and categories.
